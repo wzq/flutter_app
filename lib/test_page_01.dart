@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'network.dart';
-import 'dart:convert';
 
 class TestPage1 extends StatelessWidget {
 //  var net = HttpUtil();
